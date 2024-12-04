@@ -1,6 +1,6 @@
 +++
 title = "Essai"
-description = 
+description = ""
 date = 2023-05-27T00:00:00Z
 draft = false
 
