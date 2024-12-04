@@ -11,9 +11,11 @@ tags = ["La fin du game"]
 toc = true
 +++
 
-{{ youtube(id="-RP1QtM4wyY") }}
 
 
-|***|| Rouge |
-|***||Vert |
-|***|| Jaune|
+
+***
+| Rouge |
+|Vert |
+| Jaune|
+|------|
