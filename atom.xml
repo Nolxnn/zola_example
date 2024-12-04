@@ -23,12 +23,11 @@
         <link rel="alternate" type="text/html" href="https://Nolxnn.github.io/zola_example/essai/"/>
         <id>https://Nolxnn.github.io/zola_example/essai/</id>
         
-        <content type="html" xml:base="https://Nolxnn.github.io/zola_example/essai/">&lt;div class=&quot;yv&quot;&gt;
-    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;-RP1QtM4wyY&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
-&lt;&#x2F;div&gt;
-&lt;p&gt;|&lt;em&gt;&lt;strong&gt;|| Rouge |
-|&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;||Vert |
-|***|| Jaune|&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://Nolxnn.github.io/zola_example/essai/">&lt;hr &#x2F;&gt;
+&lt;p&gt;| Rouge |
+|Vert |&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Jaune&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 </content>
         
     </entry>
