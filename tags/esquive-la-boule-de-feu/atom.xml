@@ -8,6 +8,31 @@
     <updated>2023-05-27T00:00:00+00:00</updated>
     <id>https://Nolxnn.github.io/zola_example/tags/esquive-la-boule-de-feu/atom.xml</id>
     <entry xml:lang="en">
+        <title>Essai</title>
+        <published>2023-05-27T00:00:00+00:00</published>
+        <updated>2023-05-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://Nolxnn.github.io/zola_example/Exo1/index/"/>
+        <id>https://Nolxnn.github.io/zola_example/Exo1/index/</id>
+        
+        <content type="html" xml:base="https://Nolxnn.github.io/zola_example/Exo1/index/">&lt;p&gt;|&lt;em&gt;&lt;strong&gt;|| Rouge |
+|&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;||Vert |
+|***|| Jaune|&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Biodiversity&lt;&#x2F;em&gt; &lt;strong&gt;PMC&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;site https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;[^1]&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;Nolxnn.github.io&#x2F;zola_example&#x2F;Exo1&#x2F;index&#x2F;logoBanner.png&quot; alt=&quot;Logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Majora&#x27;s Mask</title>
         <published>2023-05-27T00:00:00+00:00</published>
         <updated>2023-05-27T00:00:00+00:00</updated>

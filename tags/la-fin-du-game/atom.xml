@@ -8,6 +8,28 @@
     <updated>2023-05-27T00:00:00+00:00</updated>
     <id>https://Nolxnn.github.io/zola_example/tags/la-fin-du-game/atom.xml</id>
     <entry xml:lang="en">
+        <title>The Legend of Zelda: Tears of the Kingdom</title>
+        <published>2023-05-27T00:00:00+00:00</published>
+        <updated>2023-05-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://Nolxnn.github.io/zola_example/essai/"/>
+        <id>https://Nolxnn.github.io/zola_example/essai/</id>
+        
+        <content type="html" xml:base="https://Nolxnn.github.io/zola_example/essai/">&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;-RP1QtM4wyY&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Majora&#x27;s Mask</title>
         <published>2023-05-27T00:00:00+00:00</published>
         <updated>2023-05-27T00:00:00+00:00</updated>

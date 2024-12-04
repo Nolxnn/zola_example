@@ -4,6 +4,10 @@
         <loc>https://Nolxnn.github.io/zola_example/</loc>
     </url>
     <url>
+        <loc>https://Nolxnn.github.io/zola_example/Exo1/index/</loc>
+        <lastmod>2023-05-27T00:00:00Z</lastmod>
+    </url>
+    <url>
         <loc>https://Nolxnn.github.io/zola_example/about/</loc>
     </url>
     <url>
@@ -14,6 +18,10 @@
     </url>
     <url>
         <loc>https://Nolxnn.github.io/zola_example/contact/</loc>
+    </url>
+    <url>
+        <loc>https://Nolxnn.github.io/zola_example/essai/</loc>
+        <lastmod>2023-05-27T00:00:00Z</lastmod>
     </url>
     <url>
         <loc>https://Nolxnn.github.io/zola_example/game-design/</loc>
